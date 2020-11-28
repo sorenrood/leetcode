@@ -1,3 +1,4 @@
+# Link to article explaining my solution: https://roodsoren.medium.com/palindrome-number-leetcode-a7f8f11463d
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         # If less than 0, it will have a "-" char
