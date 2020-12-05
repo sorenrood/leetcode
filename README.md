@@ -8,3 +8,4 @@ Below are links to articles I have written explaining my solutions.
 5. [Shortest Word Distance](https://roodsoren.medium.com/shortest-word-distance-leetcode-898aa5826a4e)
 6. [Valid Anagram](https://roodsoren.medium.com/valid-anagram-leetcode-85e4493824ba)
 7. [Remove Element](https://roodsoren.medium.com/remove-element-leetcode-ca3b3932026)
+8. [Merge Two Sorted Lists](https://roodsoren.medium.com/merge-two-sorted-lists-leetcode-945a6368f4df)
