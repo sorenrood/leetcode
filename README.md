@@ -10,3 +10,4 @@ Below are links to articles I have written explaining my solutions.
 7. [Remove Element](https://roodsoren.medium.com/remove-element-leetcode-ca3b3932026)
 8. [Merge Two Sorted Lists](https://roodsoren.medium.com/merge-two-sorted-lists-leetcode-945a6368f4df)
 9. [Number of Steps to Reduce a Number to 0](https://roodsoren.medium.com/number-of-steps-to-reduce-a-number-to-0-leetcode-46aebc19097f)
+10. [Best Time to Buy and Sell Stock](https://roodsoren.medium.com/best-time-to-buy-and-sell-stock-leetcode-4586df45c5e1)
