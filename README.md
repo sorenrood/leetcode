@@ -1,4 +1,4 @@
-# LeetCode solutions!
+# LeetCode Solutions!
 Below are links to articles I have written explaining my solutions.
 
 1. [Palindrome Number](https://roodsoren.medium.com/palindrome-number-leetcode-a7f8f11463d)
