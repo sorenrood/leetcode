@@ -12,3 +12,4 @@ Below are links to articles I have written explaining my solutions.
 9. [Number of Steps to Reduce a Number to 0](https://roodsoren.medium.com/number-of-steps-to-reduce-a-number-to-0-leetcode-46aebc19097f)
 10. [Best Time to Buy and Sell Stock](https://roodsoren.medium.com/best-time-to-buy-and-sell-stock-leetcode-4586df45c5e1)
 11. [Find Common Characters](https://roodsoren.medium.com/find-common-characters-leetcode-71dadfbef81f)
+12. [Kth Largest Element in an Array](https://roodsoren.medium.com/kth-largest-element-in-an-array-leetcode-e42b52cdbed2)
