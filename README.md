@@ -13,3 +13,4 @@ Below are links to articles I have written explaining my solutions.
 10. [Best Time to Buy and Sell Stock](https://roodsoren.medium.com/best-time-to-buy-and-sell-stock-leetcode-4586df45c5e1)
 11. [Find Common Characters](https://roodsoren.medium.com/find-common-characters-leetcode-71dadfbef81f)
 12. [Kth Largest Element in an Array](https://roodsoren.medium.com/kth-largest-element-in-an-array-leetcode-e42b52cdbed2)
+13. [Backspace String Compare](https://roodsoren.medium.com/backspace-string-compare-leetcode-e038de1e104b)
