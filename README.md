@@ -20,3 +20,4 @@ Below are links to articles I have written explaining my solutions.
 17. [Lemonade Change](https://roodsoren.medium.com/lemonade-change-leetcode-51920cd3abd9)
 18. [Delete N Nodes After M Nodes of a Linked List](https://roodsoren.medium.com/delete-n-nodes-after-m-nodes-of-a-linked-list-leetcode-a22e5737b78)
 19. [Distribute Candies to People](https://roodsoren.medium.com/distribute-candies-to-people-leetcode-c0e0c48838fa)
+20. [Consecutive Characters](https://roodsoren.medium.com/consecutive-characters-leetcode-1810c8a8408a)
