@@ -23,3 +23,4 @@ Below are links to articles I have written explaining my solutions.
 20. [Consecutive Characters](https://roodsoren.medium.com/consecutive-characters-leetcode-1810c8a8408a)
 21. [Minimum Cost to Move Chips to the Same Position](https://roodsoren.medium.com/minumum-cost-to-move-chips-to-the-same-position-leetcode-4f4f78e30224)
 22. [Longest Continuous Increasing Subsequence](https://roodsoren.medium.com/longest-continuous-increasing-subsequence-leetcode-f1c7720ac84)
+23. [Valid Sudoku](https://roodsoren.medium.com/valid-sudoku-leetcode-a051ffcb1636)
