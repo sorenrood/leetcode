@@ -26,3 +26,4 @@ Below are links to articles I have written explaining my solutions.
 23. [Valid Sudoku](https://roodsoren.medium.com/valid-sudoku-leetcode-a051ffcb1636)
 24. [Strobogrammatic Number](https://roodsoren.medium.com/strobogrammatic-number-leetcode-7061f04b9636)
 25. [Palindrome Linked List](https://roodsoren.medium.com/palindrome-linked-list-leetcode-4ec65928ce05)
+26. Contains Duplicate - TODO
