@@ -28,3 +28,4 @@ Below are links to articles I have written explaining my solutions.
 25. [Palindrome Linked List](https://roodsoren.medium.com/palindrome-linked-list-leetcode-4ec65928ce05)
 26. [Contains Duplicate](https://roodsoren.medium.com/contains-duplicate-leetcode-9ff8857ae49)
 27. [Reformat Phone Number](https://roodsoren.medium.com/reformat-phone-number-leetcode-885e201a97ac)
+28. [Maximum Product of Three Numbers](https://roodsoren.medium.com/maximum-product-of-three-numbers-leetcode-45fa9680bf3b)
