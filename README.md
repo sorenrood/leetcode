@@ -31,3 +31,4 @@ Below are links to articles I have written explaining my solutions.
 28. [Maximum Product of Three Numbers](https://roodsoren.medium.com/maximum-product-of-three-numbers-leetcode-45fa9680bf3b)
 29. How Many Apples Can You Put Into The Basket
 30. Power of two
+31. Reverse Linked List
