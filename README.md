@@ -32,3 +32,4 @@ Below are links to articles I have written explaining my solutions.
 29. How Many Apples Can You Put Into The Basket
 30. Power of two
 31. Reverse Linked List
+32. Valid Parentheses
